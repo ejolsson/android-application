@@ -2,7 +2,7 @@
 
 ## Introduction
 
-An innovative bootcamp project using Jetpack Compose, Kotlin Flow, multiple API endpoint connections, Hilt, and SOLID/clean principles.
+An innovative bootcamp project using Jetpack Compose, Kotlin Flow, multiple API endpoint connections, Hilt, and SOLID/clean principles. Project contributors include: Alberto Junquera Ramirez, Camila López, Enrique Poyato Ortiz, Eric Olsson, and Marta Maquedano.
 
 ## Features
 
